@@ -46,3 +46,58 @@ But fear not, intrepid explorer! You're not alone on this quest. I'm here as you
 Remember, before you set sail on your adventure, you'll need to share your Plan of Action with me for a quick check-up. So, gear up, sharpen your pencils 📝, and let's get ready to embark on this epic journey together! And remember, procrastination is the enemy here, so let's hustle and bustle before the deadline creeps up on us like a stealthy ninja 🥷!
 
 Refer to this [sample](./files/samplePoA.pdf) for what a PoA should contain. But no need to follow too strictly; Feel free to design your own PoA if you feel so.
+
+Also a message from the *organisers*:  
+[PoA submission form](https://forms.gle/dv7Gi9PbEUEVnqVy6)  
+Deadline for filling: **24 May (end of day)**
+
+Few sample PoAs from previous years' projects for your reference:
+1. [Apoorva Rajadhyaksha (2023)](https://drive.google.com/open?id=1Q1Q03Z1XlbN0XHm7UfbhllitOzprubRt) (Non-Linear Dynamics)
+2. [Harshda Saxena (2020)](https://drive.google.com/open?id=14JT_k83cOvavyrtjUlBjgt2mC4cLo0lk) (Cosmology and Dark Matter)
+3. [Nilabha Saha (2023)](https://drive.google.com/open?id=1YsJMYQhHt6qd9Rot3xfcrEYL5q99Y6GZ) (Abstract Algebra)
+
+
+
+## 📚 Resource Wonderland 🌟
+
+Welcome to the ultimate treasure trove of resources! Dive into these sections to level up your skills and knowledge in machine learning, deep learning, and large language models.
+
+### 1. ML Newbie 🚀
+Just starting out? These resources will help you get a solid foundation!
+- **Learn what is ML from scratch:** [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+- **Learn basics of Neural Networks:** [Advanced Learning Algorithms on Coursera](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+
+### 2. Knows Basic ML 🧠
+Got the basics down? Time to deepen your knowledge!
+- **This book has it all. You can refer to the ML Basics section and Chapters 6 to 8 for Deep Learning** [Deep Learning Book](https://www.deeplearningbook.org/)
+- **Get basic knowledge of DL and how to code it. You may skip the CNN part:** [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
+
+### 3. Neural Network Master 🧙‍♂️
+Already a wizard with neural networks but don't know what's NLP? These are for you!
+- **Focus on the 4th course in this specialization. If you want to learn NLP, you can do the others later:** [Natural Language Processing Specialization on Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- **Detailed model information (Chapter 10):** [Deep Learning Book](https://www.deeplearningbook.org/)
+- **Slides and lectures from Stanford's CS224N:** [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
+- **Transformers - the most important stuff. This is what makes the miracle possible:** [Attention Is All You Need - Blog](https://btcompneuro.substack.com/p/draft-attention-is-all-you-need-in)
+- **You are also welcome to read the original paper:** [Attention Is All You Need - Paper](https://dl.acm.org/doi/10.5555/3295222.3295349)
+
+### 4. Knows DL and Basic NLP 💡
+Ready to explore the world of LLMs? Check these out!
+- **What is LLM?:** [Learn LLM on YouTube](https://www.youtube.com/watch?v=67_aMPDk2zw&pp=ygUJbGVhcm4gbGxt)
+- **The foundations of LLM:** [Generative AI with LLMs on Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
+- **Different famous LLMs (Check out the slides for a comprehensive overview):** [Famous LLMs - Princeton](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+
+### 5. Advanced LLM 🌐
+Level up to the cutting-edge! Explore these advanced topics:
+- **Prompt Engineering:**
+  - [Paper: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+  - [Prompting Guide](https://www.promptingguide.ai/)
+  - [Prompt Engineering on YouTube](https://www.youtube.com/watch?v=Vx6VwdhDCEc&pp=ygUScHJvbXB0IGVuZ2luZWVyaW5n)
+- **Multimodal Learning:**
+  - [Paper: Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884)
+  - [Multimodal Learning Playlist on YouTube](https://www.youtube.com/playlist?list=PLki3HkfgNEsKPcpj5Vv2P98SRAT9wxIDa)
+- **Retrieval Augmented Generation:**
+  - [Paper: Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066)
+  - [Retrieval Augmented Generation Playlist on YouTube](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+
+
+Happy learning! 🎉 Whether you're just starting out or diving into advanced topics, these resources will guide you on your journey to becoming an AI and ML pro! 🚀
